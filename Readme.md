@@ -4,7 +4,7 @@ This data set is collected from Addis Ababa Sub-city police departments for mast
 https://www.narcis.nl/dataset/RecordID/oai%3Aeasy.dans.knaw.nl%3Aeasy-dataset%3A191591
 
 ## To run
-download **RTA Dataset.csv** from https://data.mendeley.com/datasets/xytv86278f/1 to **data/RTA Dataset.csv**
-notebook/Traffic_Accidents.ipynb will generate the model.
-streamlit run app.py
+download **RTA Dataset.csv** from https://data.mendeley.com/datasets/xytv86278f/1 to **data/RTA Dataset.csv**<br/>
+run **notebook/Traffic_Accidents.ipynb** to generate the model **models/randomforest.joblib** <br/>
+**streamlit run app.py**
 
